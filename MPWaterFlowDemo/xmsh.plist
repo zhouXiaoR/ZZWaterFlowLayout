@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>100</integer>
+		<key>shopHeight</key>
+		<string>500</string>
+	</dict>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>100</integer>
+		<key>shopHeight</key>
+		<string>800</string>
+	</dict>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>200</integer>
+		<key>shopHeight</key>
+		<string>600</string>
+	</dict>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>100</integer>
+		<key>shopHeight</key>
+		<string>500</string>
+	</dict>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>100</integer>
+		<key>shopHeight</key>
+		<string>800</string>
+	</dict>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>200</integer>
+		<key>shopHeight</key>
+		<string>600</string>
+	</dict>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>100</integer>
+		<key>shopHeight</key>
+		<string>500</string>
+	</dict>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>100</integer>
+		<key>shopHeight</key>
+		<string>800</string>
+	</dict>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>100</integer>
+		<key>shopHeight</key>
+		<string>500</string>
+	</dict>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>400</integer>
+		<key>shopHeight</key>
+		<string>500</string>
+	</dict>
+	<dict>
+		<key>shopName</key>
+		<string>商品1</string>
+		<key>shopWidth</key>
+		<integer>500</integer>
+		<key>shopHeight</key>
+		<string>500</string>
+	</dict>
+    <dict>
+        <key>shopName</key>
+        <string>商品1</string>
+        <key>shopWidth</key>
+        <integer>100</integer>
+        <key>shopHeight</key>
+        <string>800</string>
+    </dict>
+    <dict>
+        <key>shopName</key>
+        <string>商品1</string>
+        <key>shopWidth</key>
+        <integer>200</integer>
+        <key>shopHeight</key>
+        <string>600</string>
+    </dict>
+    <dict>
+        <key>shopName</key>
+        <string>商品1</string>
+        <key>shopWidth</key>
+        <integer>100</integer>
+        <key>shopHeight</key>
+        <string>500</string>
+    </dict>
+    <dict>
+        <key>shopName</key>
+        <string>商品1</string>
+        <key>shopWidth</key>
+        <integer>100</integer>
+        <key>shopHeight</key>
+        <string>800</string>
+    </dict>
+    <dict>
+        <key>shopName</key>
+        <string>商品1</string>
+        <key>shopWidth</key>
+        <integer>100</integer>
+        <key>shopHeight</key>
+        <string>800</string>
+    </dict>
+    <dict>
+        <key>shopName</key>
+        <string>商品1</string>
+        <key>shopWidth</key>
+        <integer>200</integer>
+        <key>shopHeight</key>
+        <string>600</string>
+    </dict>
+    <dict>
+        <key>shopName</key>
+        <string>商品1</string>
+        <key>shopWidth</key>
+        <integer>100</integer>
+        <key>shopHeight</key>
+        <string>500</string>
+    </dict>
+    <dict>
+        <key>shopName</key>
+        <string>商品1</string>
+        <key>shopWidth</key>
+        <integer>100</integer>
+        <key>shopHeight</key>
+        <string>800</string>
+    </dict>
+
+<dict>
+    <key>shopName</key>
+    <string>商品1</string>
+    <key>shopWidth</key>
+    <integer>100</integer>
+    <key>shopHeight</key>
+    <string>800</string>
+</dict>
+<dict>
+    <key>shopName</key>
+    <string>商品1</string>
+    <key>shopWidth</key>
+    <integer>200</integer>
+    <key>shopHeight</key>
+    <string>600</string>
+</dict>
+<dict>
+    <key>shopName</key>
+    <string>商品1</string>
+    <key>shopWidth</key>
+    <integer>100</integer>
+    <key>shopHeight</key>
+    <string>500</string>
+</dict>
+<dict>
+    <key>shopName</key>
+    <string>商品1</string>
+    <key>shopWidth</key>
+    <integer>100</integer>
+    <key>shopHeight</key>
+    <string>800</string>
+</dict>
+
+<dict>
+    <key>shopName</key>
+    <string>商品1</string>
+    <key>shopWidth</key>
+    <integer>100</integer>
+    <key>shopHeight</key>
+    <string>800</string>
+</dict>
+<dict>
+    <key>shopName</key>
+    <string>商品1</string>
+    <key>shopWidth</key>
+    <integer>200</integer>
+    <key>shopHeight</key>
+    <string>600</string>
+</dict>
+<dict>
+    <key>shopName</key>
+    <string>商品1</string>
+    <key>shopWidth</key>
+    <integer>100</integer>
+    <key>shopHeight</key>
+    <string>500</string>
+</dict>
+<dict>
+    <key>shopName</key>
+    <string>商品1</string>
+    <key>shopWidth</key>
+    <integer>100</integer>
+    <key>shopHeight</key>
+    <string>800</string>
+</dict>
+</array>
+</plist>
